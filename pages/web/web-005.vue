@@ -11,7 +11,7 @@
               <nuxt-link to="/web">web</nuxt-link>
             </li>
             <li class="is-active">
-              <nuxt-link to="/web/web-005">Gitを使ってみた</nuxt-link>
+              <nuxt-link to="/web/web-005">Git使ってみた〜まとめサイト引用〜</nuxt-link>
             </li>
           </ul>
         </nav>
@@ -22,7 +22,7 @@
         <div class="columns">
           <div class="column">
             <h1 class="title is-3 is-size-4-mobile">
-              GitHubを使ってみた
+              GitHub使ってみた 〜まとめサイト引用〜
             </h1>
             <figuer>
               <img src="~assets/img/web/pc-operation.jpg" alt="パソコンイメージ画像" class="image">
@@ -53,18 +53,12 @@
                 そもそもGitってなに？
               </h3>
             </div>
-            <figuer>
-              <img src="~assets/img/web/browser-device.png" alt="ブラウザイメージ画像" class="image ">
-            </figuer>
             <p>
-              <strong>Git</strong>とは、コンピュータ上で編集されたファイルの変更履歴を管理する<strong class="text-emphasis">バージョン管理システム</strong>のことで、
-              今回の私のように、自分のサイトのコードを管理するのも<br class="is-hidden-mobile">よく耳にする<strong>WEBブラウザ</strong>はWEBページを見るためのソフトウェアのことを指します。
+              <strong>Git</strong>とは、コンピュータ上で編集されたファイルの変更履歴を管理する<strong class="text-emphasis">バージョン管理システム</strong>のことだよ。
+              自分が作業した（変更した）履歴を細かく保存しておくことで、変更前のデータを取り出したり、どんな変更をしたのか確認したりできるんだよ。
             </p>
-
             <p>
-              ブラウザの大まかな機能は、<strong>ユーザーの選択したWEBデータをサーバーに要求してウィンドウに表示させる</strong>ことです。
-              <br class="is-hidden-mobile">基本ブラウザが無いとWEBデータで作られたネットを見ることは出来ません。
-              <br class="is-hidden-mobile">その為、基本的に殆どのデバイス（PC、スマホ等）に、ブラウザは搭載されています。
+              詳しくは → <a src="https://backlog.com/ja/git-tutorial/">サルでもわかるGit入門</a>
             </p>
           </div>
         </div>
@@ -72,14 +66,14 @@
           <div class="column">
             <div class="is-sabtitle-style">
               <h2 class="title is-4 is-size-5-mobile">
-                ブラウザの基本構造
+                GitHubを使ってみる
               </h2>
             </div>
             <figuer>
               <img src="~assets/img/web/browser-figure.png" alt="ブラウザ構造イメージ画像" class="image">
             </figuer>
             <p>
-              <strong>ブラウザの主な構成要素は7つ</strong>あります
+              
             </p>
             <div class="content">
               <ol>
