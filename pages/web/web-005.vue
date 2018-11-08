@@ -25,7 +25,7 @@
               GitHub使ってみた 〜まとめサイト引用〜
             </h1>
             <figuer>
-              <img src="~assets/img/web/pc-operation.jpg" alt="パソコンイメージ画像" class="image">
+              <img src="~assets/img/web/web-005.jpg" alt="githubイメージ画像" class="image">
             </figuer>
           </div>
         </div>
@@ -69,11 +69,8 @@
                 GitHubを使ってみる
               </h2>
             </div>
-            <figuer>
-              <img src="~assets/img/web/browser-figure.png" alt="ブラウザ構造イメージ画像" class="image">
-            </figuer>
             <p>
-              
+
             </p>
             <div class="content">
               <ol>
