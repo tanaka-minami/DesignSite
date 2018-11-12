@@ -22,7 +22,7 @@
               <img src="~assets/img/web/web-005.jpg" alt="githubイメージ画像" class="image">
             </figuer>
             <div class="column">
-              <nuxt-link to="/web/web-005" class="link-item">Gitを使ってみた</nuxt-link>
+              <nuxt-link to="/web/web-005" class="link-item">GitHubを使ってみた</nuxt-link>
             </div>
           </div>
         </article>

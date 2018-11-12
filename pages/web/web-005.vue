@@ -11,7 +11,7 @@
               <nuxt-link to="/web">web</nuxt-link>
             </li>
             <li class="is-active">
-              <nuxt-link to="/web/web-005">Git使ってみた〜まとめサイト引用〜</nuxt-link>
+              <nuxt-link to="/web/web-005">GitHub使ってみた〜まとめサイト引用〜</nuxt-link>
             </li>
           </ul>
         </nav>
