@@ -19,10 +19,10 @@
         <article class="article-newlist">
           <div class="columns">
             <figuer class="column is-5">
-              <img src="~assets/img/web/copyright.png" alt="コピーライトイメージ画像" class="image">
+              <img src="~assets/img/web/web-005.jpg" alt="githubイメージ画像" class="image">
             </figuer>
             <div class="column">
-              <nuxt-link to="/web/web-004" class="link-item">©マークは必要あるの？</nuxt-link>
+              <nuxt-link to="/web/web-005" class="link-item">Gitを使ってみた</nuxt-link>
             </div>
           </div>
         </article>
@@ -59,10 +59,10 @@
         <article class="article-list ">
           <div class="columns is-mobile">
             <figuer class="column is-4">
-              <img src="~assets/img/web/adaptive-img.jpg" alt="アダプティブイメージ図" class="image">
+              <img src="~assets/img/web/copyright.png" alt="コピーライトイメージ画像" class="image">
             </figuer>
             <div class="column">
-              <nuxt-link to="/web/web-005" class="link-item">Gitを使ってみた</nuxt-link>
+              <nuxt-link to="/web/web-004" class="link-item">©マークは必要あるの？</nuxt-link>
             </div>
           </div>
         </article>
